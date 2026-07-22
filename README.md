@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0189-rotate-array](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0189-rotate-array](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0125-valid-palindrome) |
+| [0189-rotate-array](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0344-reverse-string) |
 ## String Matching
 |  |
