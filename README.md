@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0202-happy-number](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0383-ransom-note) |
 ## String
 |  |
 | ------- |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0065-valid-number) |
 | [0125-valid-palindrome](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0383-ransom-note) |
 ## Sliding Window
 |  |
 | ------- |
@@ -66,4 +68,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
