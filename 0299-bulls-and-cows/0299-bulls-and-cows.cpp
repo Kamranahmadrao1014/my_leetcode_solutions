@@ -4,14 +4,12 @@ public:
         int bulls=0,cows=0;
         vector<int>guess_index;
         unordered_map<char,int>secret_map;
-        unordered_map<char,int>guess_map;
         for(int i=0;i<guess.length();i++){
                 if(secret[i]==guess[i]){
                     bulls++;
                 }else{
                     guess_index.push_back(i);
                     secret_map[secret[i]]++;
-                    guess_map[guess[i]]++;
                 }
         }
         for(int i=0;i<guess_index.size();i++){
