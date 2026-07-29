@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0204-count-primes) |
 ## Hash Table
 |  |
 | ------- |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0204-count-primes) |
 | [0367-valid-perfect-square](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
@@ -92,4 +94,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0387-first-unique-character-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Kamranahmadrao1014/my_leetcode_solutions/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
